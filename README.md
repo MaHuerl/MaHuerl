@@ -20,9 +20,9 @@
 </div>
 
 ### I'm Ak!
-- ⛅ 一名网络安全从业者。:heartpulse:	
-- ⛅ 一切源于兴趣，从兴趣到生活，从兴趣到职业。:boom:	
-- ⛅ 一名只会Web的菜鸡，希望自己可以向上努力！:cow:
+- ⛅ 一名网络安全从业者。
+- ⛅ 一切源于兴趣，从兴趣到生活，从兴趣到职业。	
+- ⛅ 一名只会Web的菜鸡，希望自己可以向上努力！
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: 2813955543@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_38287829?spm=1000.2115.3001.5343)
@@ -39,7 +39,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AkcooLer&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/AkcooLer/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/AkcooLer/count.svg) visitor,Thank You!
 
 ### My Skill Set
 
