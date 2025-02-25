@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
+
+
 ### I'm Ak!
 - ⛅ 一名网络安全从业者。
 - ⛅ 一切源于兴趣，从兴趣到生活，从兴趣到职业。	
@@ -36,13 +38,14 @@
 - 🍟 吃饭睡觉
   
 ***不忘初心🔰方得始终***
-
-![](https://github-readme-stats.vercel.app/api?username=AkcooLer&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/AkcooLer/count.svg) visitor,Thank You!
-
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) .
+![](https://github-readme-stats.vercel.app/api?username=AkcooLer&show_icons=true&theme=transparent)
+
+  You are my ![Visitor Count](https://profile-counter.glitch.me/AkcooLer/count.svg) visitor,Thank You!
+
+
+
 
 
